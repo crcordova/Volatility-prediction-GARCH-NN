@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+matplotlib
+keras
+tensorflow
+scikit-learn
+arch
+plotly
+nbformat
+streamlit
